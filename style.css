@@ -22,19 +22,33 @@ header {
 
 
 
-.container-gallery {
+/* .container-gallery {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   align-items: center;
-}
+} */
 img {
-  width: 300px;
-  height: auto;
-
+  display: block;
+  width: 100%;
 }
 .gallery-item {
+  width: 33.3%;
   padding: 20px;
   display: flex;
   flex-direction: column;
+}
+
+.gallery-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.gallery {
+  max-width: 70vw;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
