@@ -1,6 +1,6 @@
 # responsive-gallery
-responsive photo gallery
-<p style="align : center">
+### responsive photo gallery
+<p align="center">
   <p>Mobile</p>
   <img src="https://user-images.githubusercontent.com/58210877/122973482-e71ade00-d3ae-11eb-9b9e-38937933cab8.png" width="350px" alt="kirito-236 github   io_responsive-gallery_(iPhone X)" />
   <p>PC</p>
